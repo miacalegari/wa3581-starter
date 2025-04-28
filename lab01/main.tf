@@ -11,7 +11,7 @@ terraform {
   }
 
   cloud {
-    organization = "tf-advanced-labs-<Your_GitHub_Username>"
+    organization = "tf-advanced-labs-miacalegari"
     workspaces {
       name = "lab01"
     }
